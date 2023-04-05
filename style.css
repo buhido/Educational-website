@@ -1,0 +1,30 @@
+body {
+    background: url(https://phonoteka.org/uploads/posts/2022-01/1642435372_22-phonoteka-org-p-fon-dlya-prezentatsii-sol-krasivo-25.jpg); /* Фоновый цвет и фоновый рисунок*/
+	color: #212121; /*Цвет текста на странице*/
+	background-attachment: fixed; /* Фон страницы фиксируется */
+	background-repeat: repeat-x; /* Изображение повторяется по горизонтали */
+}
+
+h1 {
+    font-family: 'Robotic', cursive;
+    color: green;
+}
+
+h2 {
+    color: black;
+}
+
+.skills {
+    color: red;
+}
+
+.wishes {
+    color: green;
+}
+
+.chat {
+    display: inline-block;
+    background-color: #66cc00;
+    padding: 10px;
+    margin-top: 10px;
+}
